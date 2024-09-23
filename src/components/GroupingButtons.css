@@ -1,0 +1,25 @@
+.grouping-buttons {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 20px;
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .grouping-buttons label {
+    margin-right: 10px;
+  }
+  
+  .grouping-buttons select {
+    padding: 5px;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+  }
+  
+  .icon {
+    width: 16px;
+    height: 16px;
+    margin-left: 5px;
+    cursor: pointer;
+  }
+  
